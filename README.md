@@ -1,3 +1,7 @@
+#### git 官网教程
+
+[https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+
 #### github 上 star 最多的 git tips
 
 [https://github.com/521xueweihan/git-tips](https://github.com/521xueweihan/git-tips)
