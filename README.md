@@ -18,6 +18,10 @@ http://www.bootcss.com/p/git-guide/
 
 [http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
+#### git-flow 学习资料
+
+[https://www.git-tower.com/learn/git/ebook/cn/command-line/introduction](https://www.git-tower.com/learn/git/ebook/cn/command-line/introduction)
+
 #### 像 git 一样思考
 
 [http://think-like-a-git.net/](http://think-like-a-git.net/)
